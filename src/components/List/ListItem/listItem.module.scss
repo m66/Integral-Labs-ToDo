@@ -1,0 +1,21 @@
+.listItem {
+    height: 10px;
+    width: 306px;
+    margin-top: 16px;
+    border: 1px solid #C4CAD5;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px;
+}
+
+.checkbox {
+    margin-right: 9px;
+}
+
+.deleteBtn {
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+}
